@@ -24,11 +24,10 @@ SQLite: Database management for storing employee and payroll data.
 Installation 🚀
 Clone the repository:
 
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/your-username/payroll-management-system.git
 cd payroll-management-system
+```
 Install dependencies:
 
 bash
