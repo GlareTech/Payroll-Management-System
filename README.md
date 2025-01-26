@@ -30,18 +30,17 @@ cd payroll-management-system
 ```
 Install dependencies:
 
-bash
-Copy
-Edit
+```bash
 pip install -r requirements.txt
+```
 Run the application:
 
-bash
-Copy
-Edit
+```bash
 python main.py
+```
+
 Screenshots 📸
-(Add screenshots of your application here, showing the UI and features.)
+()
 
 Contributions 🤝
 Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit a pull request.
